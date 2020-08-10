@@ -14,7 +14,7 @@ $ cd nlw2-web-proffy
 # Install dependencies
 $ yarn install
 
-# Start server
+# Start
 $ yarn start
 ```
 
